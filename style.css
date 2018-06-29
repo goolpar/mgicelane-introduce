@@ -15,6 +15,6 @@
 font-family: "Noto Sans TC",NotoSansTC-Thin,sans-serif;
 }
 
-.mc01{background:url("https://i.imgur.com/SZyfpDt.jpg") no-repeat; width: 50%;height: 600px; background-size:100%; margin-bottom: 50px;}
+.mc01{background:url("https://i.imgur.com/SZyfpDt.jpg") no-repeat; width: 50%;height: 600px; background-size:contain; margin-bottom: 50px;background-position: center}
 
-.mc02{background:url("https://i.imgur.com/5xa0S9i.jpg") no-repeat; width: 50%;height: 600px; background-size:100%;margin-top: 50px;}
+.mc02{background:url("https://i.imgur.com/5xa0S9i.jpg") no-repeat; width: 50%;height: 700px; background-size:contain;margin-top: 50px;background-position: center}
