@@ -26,8 +26,9 @@ font-family: "Noto Sans TC",NotoSansTC-Thin,sans-serif;
 font-family: "Noto Sans TC",NotoSansTC-Thin,sans-serif;
 }
 	
-	.mc01{background:url("https://i.imgur.com/SZyfpDt.jpg") no-repeat; width: 100%;height: 600px; background-size:contain; margin-bottom: 50px;background-position: center }	
+	.mc01{background:url("https://i.imgur.com/SZyfpDt.jpg") no-repeat; width: 100%;height: 500px; background-size:contain; margin-bottom: 50px;background-position: center }	
 	
-	.mc02{background:url("https://i.imgur.com/5xa0S9i.jpg") no-repeat; width: 100%;height: 700px; background-size:contain;margin-top: 50px;background-position: center}
+	.mc02{background:url("https://i.imgur.com/5xa0S9i.jpg") no-repeat; width: 100%;height: 500px; background-size:contain;margin-top: 50px;background-position: center}
+	
 	iframe{width:100%;height:300px;}
 }
